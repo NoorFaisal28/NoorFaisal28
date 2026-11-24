@@ -1,16 +1,32 @@
-## Hi there 👋
 
-<!--
-**NoorFaisal28/NoorFaisal28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I’m a Future Software Engineer 👋
 
-Here are some ideas to get you started:
+Aspiring Software Developer | Python & C++
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m beginning my journey in Software Engineering and developing my programming skills through practical projects and continuous learning.
+
+💻 Technical Skills
+
+* Python (Basic)
+* C++ (Basic)
+* GitHub
+* Problem Solving
+
+🌱 Currently Learning
+
+* Data Structures and Algorithms
+* Web Development
+* Object-Oriented Programming
+
+🎯 My Goals
+
+* Build practical programming projects.
+* Improve my software development skills.
+* Collaborate on interesting projects.
+* Explore software engineering opportunities.
+
+📫 Connect With Me
+
+* GitHub: https://github.com/NoorFaisal28
+
+Learning, building and improving every day.
